@@ -14,13 +14,5 @@
       <img src="resources\CSS\pods.jfif">
     </div>
   </div>
-  <div class="us">
-    <h2>Shop for the latest Apple products, accessories and offers. Compare models, get expert shopping help, plus flexible payment and delivery options.</h2>
-   <div class="img"> 
-  <img src="resources/CSS/13-iphone.png">
-  <img src="resources\CSS\13-ipad.png">
-  <img src="resources\CSS\13-mac.png"> 
-</div>
-  </div>
 </body>
 <?php include "includes/footer.php"; ?>
