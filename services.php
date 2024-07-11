@@ -9,17 +9,17 @@
     </div>
     <div class="options">
         <div class="visit">
-        <img src="resources/CSS/screw.png" alt="">
+            <img src="resources/CSS/screw.png" alt="">
             <h3>Schedule a visit</h3>
             <p>Make an appointment at an Apple Authorized Service Provider or Apple Store</p>
         </div>
         <div class="send">
-        <img src="resources/CSS/send.png" alt="">
+            <img src="resources/CSS/send.png" alt="">
             <h3>Send in for repair</h3>
             <p>Arrange to mail your product directly to Apple</p>
         </div>
         <div class="contactus">
-        <img src="resources/CSS/contact.png" alt="">
+            <img src="resources/CSS/contact.png" alt="">
             <h3>Contact us</h3>
             <p>Talk to an Apple Support Advisor</p>
         </div>
